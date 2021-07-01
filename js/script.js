@@ -11,8 +11,8 @@ const siteUrl = "page_01",
       
 console.log(fullUrlSite);
 
-// Использование Git
-/* 
+/* Использование Git
+ 
 Инициализация Git
 git init
 
@@ -35,7 +35,7 @@ git init
     git commit -a -m"message"
 
 Просмотр логов комита
-    git log
+    git loggit
 */
 
 
